@@ -1,6 +1,6 @@
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-# University System Management
+# 🏛️ University System Management
 
 This project is a **University Management System** built in **C++**. It allows users to manage and manipulate data about professors, students, courses, and semesters. The system offers functionalities such as adding, modifying, and deleting records, assigning professors to courses, enrolling students, tracking student performance, and more. 
 
