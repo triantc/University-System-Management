@@ -1,0 +1,17 @@
+Mr. Red
+40
+98765
+Math
+Chemistry
+
+Mrs. Blue
+35
+54321
+Physics
+Biology
+
+Dr. Green
+55
+88888
+English
+Linear Algebra

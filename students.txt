@@ -1,0 +1,35 @@
+John Doe
+20
+12345
+1
+
+Alice Smith
+22
+67890
+3
+Math
+1
+7
+Physics
+2
+9
+
+David Beckham
+23
+47477
+7
+Physics
+2
+6
+Math
+3
+10
+Chemistry
+3
+8
+English
+5
+8
+Linear Algebra
+6
+7
